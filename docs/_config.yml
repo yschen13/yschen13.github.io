@@ -3,3 +3,5 @@ logo: /assets/img/IMG_0637.jp2
 description: 
 plugins:
     - jekyll-seo-tag
+kramdown:
+    auto_ids: true

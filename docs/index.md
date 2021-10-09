@@ -4,7 +4,7 @@ layout: default
 
 I'm a PhD candadiate in computational neuroscience, mentored by [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on causality detection in time-series data and modeling computation principles in neural circuits. Check out my latest network causality estimation algorithm: [Dynamical Differential Covariance (DDC)](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2).
 
-Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](./notes.html) and [side projects (Object recognition, SLAM, puzzle sovling!)](./projects.html) and equivalently two M.S. degrees! 
+Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
 
 I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@ucsd.edu).
 
@@ -16,11 +16,10 @@ I'm posting them here so that they don't have to go through the painful and leng
 
 ### Fun Projects
 * Simultaneous Localization and Mapping (SLAM)
-  * Core question in autonomous driving: how to represent the street map and self location with information from in-vehicle cameras and kinetic data (e.g. linear/angular velocity).
-  * Following are two Bayesian filters transforming visual/kinetic streams into latent variable series representing the map and location
-  * Particle Filter: [code] [report]
-  * Unscented Kalman Filter: [code] [report]
-* Seahorse puzzle: [demo] [code]
+  * Core question in autonomous driving: how to represent the street map and self location with information from in-vehicle cameras and kinetic data (e.g. linear/angular velocity). Following are two Bayesian filters transforming visual/kinetic streams into latent variable series representing the map and location
+  * Particle Filter: [code] [[report](./assets/files/SLAM_Particle.pdf)]
+  * Unscented Kalman Filter: [code] [[report](./assets/files/SLAM_KF.pdf)]
+* Seahorse puzzle: [[code]](https://github.com/yschen13/Puzzle_Seahorse)
   * Nine square tiles to place in a 3-by-3 grid 
   * Around 100 billion possibilities with different positions and poses
   * Only ONE possibility to match all patterns on the edges
@@ -28,8 +27,12 @@ I'm posting them here so that they don't have to go through the painful and leng
 
 
 ### Notes
-* Mathematical models for oscillatory signals in the brain
+* Mathematical models for oscillatory signals in the brain 
+  * [[Where does it arise from?]](./assets/files/Notes_Wave_generation.pdf)
+  * [[Why do they oscilate?](./assets/files/Notes_Wave_Effect.pdf)]
 * The past and future of Dynamical Differential Covariance (DDC)
+  * [[Theoretical foundations of differential covariance](./assets/files/Notes_DDC.pdf)]
+  * [[Other potential DDC variants](./assets/files/Notes_DDC.pdf)]
 * [All notes](./notes.html)
 
 
@@ -49,7 +52,7 @@ I'm posting them here so that they don't have to go through the painful and leng
   * by [Prof. Terrence Sejnowski](https://cnl.salk.edu) from Salk (Yes, my PI)
   * for whoever wants to know about computational neuroscience.
 
-### Mentorship
+### Teaching Expericences
 * TA for system computational neuroscience
 * TA for bioinformatics
 
