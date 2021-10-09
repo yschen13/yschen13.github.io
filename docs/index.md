@@ -4,12 +4,61 @@ layout: default
 
 I'm a PhD candadiate in computational neuroscience, mentored by [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on causality detection in time-series data and modeling computation principles in neural circuits. Check out my latest network causality estimation algorithm: [Dynamical Differential Covariance (DDC)](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2).
 
-Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes _(network dynamics, causality estimation, ICA algorithms)_](./notes.html) and [side projects _(Object recognition, SLAM, puzzle sovling!)_](./projects.html) and equivalently two M.S. degrees! 
+Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](./notes.html) and [side projects (Object recognition, SLAM, puzzle sovling!)](./projects.html) and equivalently two M.S. degrees! 
 
-I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email 
+I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@ucsd.edu).
+
+### Latest Publication
+* Yusi Chen, Burke Q. Rosen and Terrence J. Sejnowski, Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Cosyne 2021, bioRxiv(2021)_ [[paper](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
+  * Our ability to think, feel, and react depends on the underlying interaction patterns of distinct brain regions. This paper defines the interaction patterns in a dynamical system and derived an efficient algorithm to estimate it from time-series data.
+* [All publications](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en)
 
 
+### Fun Projects
+* Simultaneous Localization and Mapping (SLAM)
+  * Core question in autonomous driving: how to represent the street map and self location with information from in-vehicle cameras and kinetic data (e.g. linear/angular velocity).
+  * Following are two Bayesian filters transforming visual/kinetic streams into latent variable series representing the map and location
+  * Particle Filter: [code] [report]
+  * Unscented Kalman Filter: [code] [report]
+* Seahorse puzzle: [demo] [code]
+  * Nine square tiles to place in a 3-by-3 grid 
+  * Around 100 billion possibilities with different positions and poses
+  * Only ONE possibility to match all patterns on the edges
+* [All projects](./projects.html)
 
+
+### Notes
+* Mathematical models for oscillatory signals in the brain
+* The past and future of Dynamical Differential Covariance (DDC)
+* [All notes](./notes.html)
+
+
+### Recommended Courses
+* **[Probability Theory](https://www.youtube.com/channel/UCeKkMyeKBnec9Y3I_eI2BNQ)** 
+  * by Prof. Todd Kemp from UCSD Mathematics
+  * one-year sequence of courses to define probability concepts from the sample space
+* **[Modern Physics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129)** 
+  * by Prof. Leonard Sussikind from Stanford
+  * multiple lecture sequences introducing classical mechanics, quantum mechanic, et al.
+* **[Robotics](https://natanaso.github.io/ece276a/)** 
+  * by Prof. Nikolay Atanasov from UCSD Engineering
+  * a clear and straightforward introduction of cutting-edge robotic algorithms.
+* **[Information Theory](https://books.google.com/books/about/Elements_of_Information_Theory.html?id=VWq5GG6ycxMC)** 
+  * by [Prof. Alon Orlitsky](https://jacobsschool.ucsd.edu/faculty/profile?id=54) from UCSD Engineering
+* **[Computational Neuroscience](https://www.google.com/books/edition/The_Computational_Brain/z4pfDQAAQBAJ?hl=en&gbpv=0)** 
+  * by [Prof. Terrence Sejnowski](https://cnl.salk.edu) from Salk (Yes, my PI)
+  * for whoever wants to know about computational neuroscience.
+
+### Mentorship
+* TA for system computational neuroscience
+* TA for bioinformatics
+
+### Awards
+* Kavli-Helinski Fellowship (08/2021)
+* National Scholarship of China (2016)
+
+
+<!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -128,5 +177,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
- -->
+``` -->
