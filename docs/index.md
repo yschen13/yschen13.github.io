@@ -17,8 +17,9 @@ I'm posting them here so that they don't have to go through the painful and leng
 ### Fun Projects
 * Simultaneous Localization and Mapping (SLAM)
   * Core question in autonomous driving: how to represent the street map and self location with information from in-vehicle cameras and kinetic data (e.g. linear/angular velocity). Following are two Bayesian filters transforming visual/kinetic streams into latent variable series representing the map and location
-  * Particle Filter: [code] [[report](./assets/files/SLAM_Particle.pdf)]
-  * Unscented Kalman Filter: [code] [[report](./assets/files/SLAM_KF.pdf)]
+  * Particle Filter: [code](https://github.com/yschen13/SLAM_ParticleFilter) [[report](./assets/files/SLAM_Particle.pdf)]
+  * Unscented Kalman Filter: [code](https://github.com/yschen13/SLAM_KalmanFilter) [[report](./assets/files/SLAM_KF.pdf)]
+* Image Classification through neural networks: [code](https://github.com/yschen13/Classification_CNN)
 * Seahorse puzzle: [[code]](https://github.com/yschen13/Puzzle_Seahorse)
   * Nine square tiles to place in a 3-by-3 grid 
   * Around 100 billion possibilities with different positions and poses
@@ -33,6 +34,9 @@ I'm posting them here so that they don't have to go through the painful and leng
 * The past and future of Dynamical Differential Covariance (DDC)
   * [[Theoretical foundations of differential covariance](./assets/files/Notes_DDC.pdf)]
   * [[Other potential DDC variants](./assets/files/Notes_DDC.pdf)]
+* The many algorithms of ICA
+  * Real-valued: infomax
+  * Complex-valued: infomax and maximization of nongaussianity
 * [All notes](./notes.html)
 
 
