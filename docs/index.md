@@ -24,7 +24,7 @@ I'm posting them here so that they don't have to go through the painful and leng
   * Nine square tiles to place in a 3-by-3 grid 
   * Around 100 billion possibilities with different positions and poses
   * Only ONE possibility to match all patterns on the edges
-* [All projects](./projects.html)
+<!-- * [All projects](./projects.html) -->
 
 
 ### Notes
@@ -35,9 +35,9 @@ I'm posting them here so that they don't have to go through the painful and leng
   * [[Theoretical foundations of differential covariance](./assets/files/Notes_DDC.pdf)]
   * [[Other potential DDC variants](./assets/files/Notes_DDC.pdf)]
 * The many algorithms of ICA
-  * Real-valued: infomax
-  * Complex-valued: infomax and maximization of nongaussianity
-* [All notes](./notes.html)
+  * [[Real-valued ICA](./assets/files/Notes_ComplexICA.pdf)]: infomax, FastICA, et al.
+  * [[Complex-valued ICA](./assets/files/Notes_ComplexICA.pdf)]: how to extend definitions to the complex field and translate it back to real-valued ICA.
+<!-- * [All notes](./notes.html) -->
 
 
 ### Recommended Courses
