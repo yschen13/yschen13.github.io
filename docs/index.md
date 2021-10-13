@@ -35,8 +35,8 @@ I'm posting them here so that they don't have to go through the painful and leng
   * [[Theoretical foundations of differential covariance](./assets/files/Notes_DDC.pdf)]
   * [[Other potential DDC variants](./assets/files/Notes_DDC.pdf)]
 * The many algorithms of ICA
-  * [[Real-valued ICA](./assets/files/Notes_ComplexICA.pdf)]: infomax, FastICA, et al.
-  * [[Complex-valued ICA](./assets/files/Notes_ComplexICA.pdf)]: how to extend definitions to the complex field and translate it back to real-valued ICA.
+  * Real-valued ICA: infomax, FastICA, et al. [[note](./assets/files/Notes_ComplexICA.pdf)] [[code](https://github.com/yschen13/ICA)]
+  * Complex-valued ICA: how to extend definitions to the complex field and translate it back to real-valued ICA. [[note](./assets/files/Notes_ComplexICA.pdf)] [[code](https://github.com/yschen13/ICA)]
 <!-- * [All notes](./notes.html) -->
 
 
