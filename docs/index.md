@@ -56,9 +56,11 @@ I'm posting them here so that they don't have to go through the painful and leng
   * by [Prof. Terrence Sejnowski](https://cnl.salk.edu) from Salk (Yes, my PI)
   * for whoever wants to know about computational neuroscience.
 
-### Teaching Expericences
-* TA for system computational neuroscience
-* TA for bioinformatics
+### Service
+* Reviewer for _Proceedings of the National Academy of Sciences_
+* Reviewer for _Neural Computation_
+* Graduate instructor assistant for system computational neuroscience, UCSD
+* Graduate instructor assistant for bioinformatics, UCSD
 
 ### Awards
 * Kavli-Helinski Fellowship (08/2021)
