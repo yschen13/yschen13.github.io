@@ -2,16 +2,16 @@
 layout: default
 ---
 
-I’m currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) for computational neuroscience in University of Washington, mentored by Dr. Eric Shea-Brown. Previously, I got my PhD from University of California, San Diego under the supervision of [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on revealing latent varibles via network learning theories and Bayesian inference methods. I mainly work with foraging tasks ranging from random walks to social collaborative foraging. 
+I’m currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) for computational neuroscience in University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/). Previously, I got my PhD from University of California, San Diego under the supervision of [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on revealing latent varibles via network learning theories and Bayesian inference methods. I mainly work with foraging tasks ranging from random walks to social collaborative foraging. 
 
 Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
 
-I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@ucsd.edu).
+I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@uw.edu).
 
 ### Latest Publication
-* <u>Yusi Chen</u>, Huanqiu Zhang, Mia Cameron and Terrence J. Sejnowski, Hippocampus as a generative circuit for predictive coding of future sequences. _Accepted to Neuron_. [[paper](https://www.biorxiv.org/content/10.1101/2022.05.19.492731v3.abstract)]
+* <u>Yusi Chen</u>, Huanqiu Zhang, Mia Cameron and Terrence J. Sejnowski, Hippocampus as a generative circuit for predictive coding of future sequences. (2024) _Accepted to Neuron_. [[paper](https://www.biorxiv.org/content/10.1101/2022.05.19.492731v3.abstract)]
 
-* <u>Yusi Chen</u>, Burke Q. Rosen and Terrence J. Sejnowski, Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (in press), Computational and Systems Neuroscience 2021._ [[paper](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
+* <u>Yusi Chen</u>, Burke Q. Rosen and Terrence J. Sejnowski, Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (2022)._ [[paper](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
   * Our ability to think, feel, and react depends on the underlying interaction patterns of distinct brain regions. This paper defines the interaction patterns in a dynamical system and derived an efficient algorithm to estimate it from time-series data.
 
 * <u>Yusi Chen</u>, Qasim Bukhari, Tiger W. Lin, Terrence J. Sejnowski; Functional connectivity of fMRI using differential covariance predicts structural connectivity and behavioral reaction times. _Network Neuroscience 2022_; [[paper]](https://doi.org/10.1162/netn_a_00239)
