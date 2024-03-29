@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I’m currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) for computational neuroscience in University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/). Previously, I got my PhD from University of California, San Diego under the supervision of [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on revealing latent varibles via network learning theories and Bayesian inference methods. I mainly work with foraging tasks ranging from random walks to social collaborative foraging. 
+I’m currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) for computational neuroscience in University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/). Previously, I got my PhD from University of California, San Diego under the supervision of [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on revealing latent varibles via **network learning theories** and **Bayesian inference methods**. I mainly work with **foraging tasks** ranging from random walks to social collaborative foraging. 
 
-Besides lab research, I'm broadly interested in **AI algorithms, theories (and puzzles)**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
+Besides lab research, I'm broadly interested in **AI algorithms, theories and puzzles**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
 
 I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@uw.edu).
 
