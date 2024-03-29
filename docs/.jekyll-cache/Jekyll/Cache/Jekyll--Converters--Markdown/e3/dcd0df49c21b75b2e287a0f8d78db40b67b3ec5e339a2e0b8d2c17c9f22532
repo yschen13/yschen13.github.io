@@ -1,0 +1,233 @@
+I"�%<p>I’m a PhD candadiate in computational neuroscience, mentored by <a href="https://cnl.salk.edu">Dr.Terrence Sejnowski</a> at Salk. <a href="https://scholar.google.com/citations?user=7xTBMSkAAAAJ&amp;hl=en">My research</a> focuses on causality detection in time-series data and modeling computation principles in neural circuits. Check out my latest network causality estimation algorithm: <a href="https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2">Dynamical Differential Covariance (DDC)</a>.</p>
+
+<p>Besides lab research, I’m broadly interested in <strong>AI algorithms, theories (and puzzles)</strong>. During the years, I accumulated pages of <a href="#notes">research notes (network dynamics, causality estimation, ICA algorithms)</a> and <a href="#fun-projects">side projects (Object recognition, SLAM, puzzle sovling!)</a> and equivalently two M.S. degrees!</p>
+
+<p>I’m posting them here so that they don’t have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@ucsd.edu).</p>
+
+<h3 id="latest-publication">Latest Publication</h3>
+<ul>
+  <li>
+    <p><u>Yusi Chen</u>, Huanqiu Zhang and Terrence J. Sejnowski, Hippocampus as a generative circuit for predictive coding of future sequences. <em>CSHL: from Neuroscience to Artificial Intelligence systems, 2022</em>. [[paper]]</p>
+  </li>
+  <li><u>Yusi Chen</u>, Burke Q. Rosen and Terrence J. Sejnowski, Dynamical differential covariance recovers directional network structure in multiscale neural systems. <em>Proceedings of the National Academy of Sciences (in press), Computational and Systems Neuroscience 2021.</em> [<a href="https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2">paper</a>][<a href="https://github.com/yschen13/DDC">code</a>] [<a href="https://www.youtube.com/watch?v=okGOtK3Y7IM">5-min video</a>]
+    <ul>
+      <li>Our ability to think, feel, and react depends on the underlying interaction patterns of distinct brain regions. This paper defines the interaction patterns in a dynamical system and derived an efficient algorithm to estimate it from time-series data.</li>
+    </ul>
+  </li>
+  <li>
+    <p><u>Yusi Chen</u>, Qasim Bukhari, Tiger W. Lin, Terrence J. Sejnowski; Functional connectivity of fMRI using differential covariance predicts structural connectivity and behavioral reaction times. <em>Network Neuroscience 2022</em>; <a href="https://doi.org/10.1162/netn_a_00239">[paper]</a></p>
+  </li>
+  <li><a href="https://scholar.google.com/citations?user=7xTBMSkAAAAJ&amp;hl=en">All publications</a></li>
+</ul>
+
+<h3 id="fun-projects">Fun Projects</h3>
+<ul>
+  <li>Simultaneous Localization and Mapping (SLAM)
+    <ul>
+      <li>Core question in autonomous driving: how to represent the street map and self location with information from in-vehicle cameras and kinetic data (e.g. linear/angular velocity). Following are two Bayesian filters transforming visual/kinetic streams into latent variable series representing the map and location</li>
+      <li>Particle Filter: <a href="https://github.com/yschen13/SLAM_ParticleFilter">[code]</a> [<a href="./assets/files/SLAM_Particle.pdf">report</a>]</li>
+      <li>Unscented Kalman Filter: <a href="https://github.com/yschen13/SLAM_KalmanFilter">[code]</a> [<a href="./assets/files/SLAM_KF.pdf">report</a>]</li>
+    </ul>
+  </li>
+  <li>Image Classification through neural networks: <a href="https://github.com/yschen13/Classification_CNN">[code]</a></li>
+  <li>Seahorse puzzle: <a href="https://github.com/yschen13/Puzzle_Seahorse">[code]</a>
+    <ul>
+      <li>Nine square tiles to place in a 3-by-3 grid</li>
+      <li>Around 100 billion possibilities with different positions and poses</li>
+      <li>Only ONE possibility to match all patterns on the edges
+<!-- * [All projects](./projects.html) --></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="notes">Notes</h3>
+<ul>
+  <li>Mathematical models for oscillatory signals in the brain
+    <ul>
+      <li><a href="./assets/files/Notes_Wave_generation.pdf">[Where does it arise from?]</a></li>
+      <li>[<a href="./assets/files/Notes_Wave_Effect.pdf">Why do they oscilate?</a>]</li>
+    </ul>
+  </li>
+  <li>The past and future of Dynamical Differential Covariance (DDC)
+    <ul>
+      <li>[<a href="./assets/files/Notes_DDC.pdf">Theoretical foundations of differential covariance</a>]</li>
+      <li>[<a href="./assets/files/Notes_DDC.pdf">Other potential DDC variants</a>]</li>
+    </ul>
+  </li>
+  <li>The many algorithms of ICA
+    <ul>
+      <li>Real-valued ICA: infomax, FastICA, et al. [<a href="./assets/files/Notes_ComplexICA.pdf">note</a>] [<a href="https://github.com/yschen13/ICA">code</a>]</li>
+      <li>Complex-valued ICA: how to extend definitions to the complex field and translate it back to real-valued ICA. [<a href="./assets/files/Notes_ComplexICA.pdf">note</a>] [<a href="https://github.com/yschen13/ICA">code</a>]
+<!-- * [All notes](./notes.html) --></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="recommended-courses">Recommended Courses</h3>
+<ul>
+  <li><strong><a href="https://www.youtube.com/channel/UCeKkMyeKBnec9Y3I_eI2BNQ">Probability Theory</a></strong>
+    <ul>
+      <li>by Prof. Todd Kemp from UCSD Mathematics</li>
+      <li>one-year sequence of courses to define probability concepts from the sample space</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.youtube.com/watch?v=ApUFtLCrU90&amp;list=PL47F408D36D4CF129">Modern Physics</a></strong>
+    <ul>
+      <li>by Prof. Leonard Sussikind from Stanford</li>
+      <li>multiple lecture sequences introducing classical mechanics, quantum mechanic, et al.</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://natanaso.github.io/ece276a/">Robotics</a></strong>
+    <ul>
+      <li>by Prof. Nikolay Atanasov from UCSD Engineering</li>
+      <li>a clear and straightforward introduction of cutting-edge robotic algorithms.</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://books.google.com/books/about/Elements_of_Information_Theory.html?id=VWq5GG6ycxMC">Information Theory</a></strong>
+    <ul>
+      <li>by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=54">Prof. Alon Orlitsky</a> from UCSD Engineering</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.google.com/books/edition/The_Computational_Brain/z4pfDQAAQBAJ?hl=en&amp;gbpv=0">Computational Neuroscience</a></strong>
+    <ul>
+      <li>by <a href="https://cnl.salk.edu">Prof. Terrence Sejnowski</a> from Salk (Yes, my PI)</li>
+      <li>for whoever wants to know about computational neuroscience.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="service">Service</h3>
+<ul>
+  <li>Reviewer for <em>Proceedings of the National Academy of Sciences</em></li>
+  <li>Reviewer for <em>Neural Computation</em></li>
+  <li>Graduate instructor assistant for system computational neuroscience, UCSD</li>
+  <li>Graduate instructor assistant for bioinformatics, UCSD</li>
+</ul>
+
+<h3 id="awards">Awards</h3>
+<ul>
+  <li>Kavli-Helinski Fellowship (08/2021)</li>
+  <li>National Scholarship of China (2016)</li>
+</ul>
+
+<!-- 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+``` -->
+:ET
