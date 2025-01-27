@@ -4,17 +4,32 @@ layout: default
 
 I’m currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) for computational neuroscience in University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/) and [Dr. Adrienne Fairhall](https://fairhalllab.com). Previously, I got my PhD from University of California, San Diego under the supervision of [Dr.Terrence Sejnowski](https://cnl.salk.edu) at Salk. [My research](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en) focuses on revealing latent varibles via **network learning theories** and **Bayesian inference methods**. I mainly work with **foraging tasks** ranging from random walks to social collaborative foraging. 
 
-Besides lab research, I'm broadly interested in **AI algorithms, theories and puzzles**. During the years, I accumulated pages of [research notes (network dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
+Besides lab research, I'm broadly interested in **AI algorithms, theories and puzzles**. During the years, I accumulated pages of [research notes (wave dynamics, causality estimation, ICA algorithms)](#notes) and [side projects (Object recognition, SLAM, puzzle sovling!)](#fun-projects) and equivalently two M.S. degrees! 
 
 I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@uw.edu).
 
-### Latest Publication
-* <u>Yusi Chen</u>, Huanqiu Zhang, Mia Cameron and Terrence J. Sejnowski, Hippocampus as a generative circuit for predictive coding of future sequences. (2024) _Accepted to Neuron_. [[paper](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4)]
+### Preprints
+* <u>Chen, Y.</u>, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_
 
-* <u>Yusi Chen</u>, Burke Q. Rosen and Terrence J. Sejnowski, Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (2022)._ [[paper](https://www.biorxiv.org/content/10.1101/2021.06.18.448901v2)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
+* Cameron, M., <u>Chen, Y.</u> & Sejnowski, T. A biologically-plausible alternative to backpropagation using pseudoinverse feedback connections. _Accepted to Cosyne 2025_
+
+* <u>Chen, Y.</u>, Recanatesi, S., Jiang, P., Rao, R., Mihalas, S., Fairhall, A., & Shea-Brown, E. (2024) How learning
+regimes shape the emergence of cognitive maps. _in prep_
+
+* <u>Chen, Y.</u>, Recanatesi, S., Liu, S., Cohen, J., Shea-Brown, E. (2024) Reinforcement learning constrained state
+space modeling of neural decisions. _in prep_
+
+
+### Latest Publication
+* <u>Chen, Y.</u>, Zhang, H., Cameron, M. & Sejnowski, T.J. (2024) Predictive sequence learning in the hippocampal
+formation. Neuron 112, 1-14. [[paper](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4)]
+
+* <u>Chen, Y.</u>, Rosen, B. Q. & Sejnowski, T. J. (2022) Dynamical differential covariance recovers directional
+network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (2022)._ [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
   * Our ability to think, feel, and react depends on the underlying interaction patterns of distinct brain regions. This paper defines the interaction patterns in a dynamical system and derived an efficient algorithm to estimate it from time-series data.
 
-* <u>Yusi Chen</u>, Qasim Bukhari, Tiger W. Lin, Terrence J. Sejnowski; Functional connectivity of fMRI using differential covariance predicts structural connectivity and behavioral reaction times. _Network Neuroscience 2022_; [[paper]](https://doi.org/10.1162/netn_a_00239)
+* <u>Chen, Y.</u>, Bukhari, Q., Lin, T.W. & Sejnowski, T.J. (2022) Differential covariance of fMRI predicts structural
+connectivity and behavior. _Network Neuroscience 2022_; [[paper]](https://doi.org/10.1162/netn_a_00239)
 
 * [All publications](https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en)
 
