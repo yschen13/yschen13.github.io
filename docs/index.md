@@ -9,7 +9,7 @@ Besides lab research, I'm broadly interested in **AI algorithms, theories and pu
 I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. If anyone is interested in these material, feel free to drop me an email (cyusi@uw.edu).
 
 ### Preprints
-* <u>Chen, Y.</u>, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_
+* <u>Chen, Y.</u>, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_ [[paper](https://www.biorxiv.org/content/10.1101/2024.10.09.617461v1.full.pdf+html)]
 
 * Cameron, M., <u>Chen, Y.</u> & Sejnowski, T. A biologically-plausible alternative to backpropagation using pseudoinverse feedback connections. _Accepted to Cosyne 2025_
 
@@ -20,7 +20,7 @@ regimes shape the emergence of cognitive maps. _in prep_
 space modeling of neural decisions. _in prep_
 
 
-### Latest Publication
+### Publication
 * <u>Chen, Y.</u>, Zhang, H., Cameron, M. & Sejnowski, T.J. (2024) Predictive sequence learning in the hippocampal
 formation. Neuron 112, 1-14. [[paper](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4)]
 
