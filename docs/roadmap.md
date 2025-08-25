@@ -2,17 +2,24 @@
 layout: default
 ---
 
-Warning: this is AI generated page, still need to be written!
-# Roadmap in Computational Neuroscience
-
 A guided roadmap for learning computational neuroscience, including recommended topics, resources and labs.
 
 ## Getting Started
 
+### LLM experiences
+In the era of LLMs, using them correctly and prompting them effectively can significantly boost efficiency. My strongest impression, however, is that they tend to hallucinate, make things up, and often agree with you uncritically. It’s essential to read through and understand everything they generate. You’re welcome to share your own experiences with me via email.
+- **Searching**: I find the DeepThought mode in the GPT family especially helpful for literature search, as it provides references to actual papers and helps reduce hallucinations.
+-	**Coding**: In my view, Cursor is very useful since it can search across the entire project repo, test and launch functions, write documentation, and comment code. However, hallucinations still occur, and the tool doesn’t always accomplish what it claims. Always make sure you understand the code it produces, or ask the agent to provide a step-by-step walkthrough of the project code.
+- **Writing**: As a non-native English speaker, I often rely on GPTs to polish my writing (as I am right now). That said, their wording tends to be general rather than precise. For academic writing, precision and conciseness are critical, so I always double-check and refine the output.
+
+
 ### Prerequisites
 - **Mathematics**: Linear algebra, calculus, probability theory, and statistics
 - **Programming**: Python or MATLAB proficiency
-- **Neuroscience**: Basic understanding of neurons, synapses, and neural circuits
+- **Neuroscience**: Basic understanding of neurons, synapses, neural circuits and neural anatomy. 
+
+-----
+Warning: the following contents are AI generated page, modifications in progress
 
 ## Core Topics
 
@@ -90,19 +97,6 @@ A guided roadmap for learning computational neuroscience, including recommended 
 3. Publish research in peer-reviewed journals
 4. Mentor junior researchers
 
-## Practical Tips
-
-### For Students
-- **Start with simulations** before diving into theory
-- **Join lab rotations** to gain hands-on experience
-- **Collaborate** with experimentalists early
-- **Present regularly** at lab meetings and conferences
-
-### For Researchers
-- **Stay current** with both computational methods and neuroscience discoveries
-- **Cross-train** in multiple techniques (theory, modeling, analysis)
-- **Network actively** at conferences and workshops
-- **Mentor others** to build the community
 
 ---
 
