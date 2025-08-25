@@ -17,12 +17,12 @@ Historically, scientists have inferred the brain’s plasticity rules and decisi
 
 ### 2. Revealing network learning from representations
 Where we are now can provide important clues about where we came from. By examining the neural representations that emerge during a given behavioral paradigm, it is possible—at least in artificial neural networks (ANNs)—to infer the underlying learning trajectories. In recent years, there has been a surge of theoretical work in machine learning aimed at opening the “black box” of learning dynamics and representations in ANNs. These advances offer powerful tools that we can also leverage to illuminate the black box of brain networks. 
-- What is the unifying objective function of the brain that accounts for the wide range of findings observed in neuroscience experiments? [My previous work](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4) focused on temporal predictive coding in hippocampus. Future work would be focusing on extending the temporal predictive coding framework to cortical column computation in neural processing hierachy. 
-- What unique inductive biases and constraints of the brain contribute to its flexible and adaptive learning? [My onging work](/assets/files/Poster_CogMap.pdf) explored the emergence of cognitive maps underlying different network learning rules and initialization. 
+- What is the **unifying objective function** of the brain that accounts for the wide range of findings observed in neuroscience experiments? [My previous work](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4) focused on temporal predictive coding in hippocampus. Future work would be focusing on extending the temporal predictive coding framework to cortical column computation in neural processing hierachy. 
+- What **unique inductive biases** and constraints of the brain contribute to its flexible and adaptive learning? [My onging work](/assets/files/Poster_CogMap.pdf) explored the emergence of cognitive maps underlying different network learning rules and initialization. 
 
 
 ### 3. Revealing the brain's functional connectivity 
-While many statistical methods can reveal correlational structures, evaluating the brain’s functional connectivity requires accounting for its intrinsic dynamics. [My previous work](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119) was the first to integrate network dynamics into the evaluation of functional connectivity, opening opportunities for many extensions-for example, incorporating specific nonlinearities or modeling the influence of external inputs.
+While many statistical methods can reveal correlational structures, evaluating the brain’s functional connectivity requires accounting for its intrinsic dynamics. [My previous work](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119) was the first to integrate **neural dynamics** into the evaluation of functional connectivity, opening opportunities for many extensions-for example, incorporating specific nonlinearities or modeling the influence of external inputs.
 
 ---
 
