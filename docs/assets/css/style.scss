@@ -1,68 +1,192 @@
 ---
 ---
 
+/**
+ * CUSTOM STYLES FOR YUSI CHEN'S PERSONAL WEBSITE
+ * ================================================
+ * 
+ * This stylesheet customizes the Jekyll minimal theme.
+ * The previous commit had minimal overrides - just image styling and popup system.
+ * 
+ * RESTORED TO PREVIOUS COMMIT SPECIFICATIONS:
+ * - No custom body padding (uses theme defaults)
+ * - No custom section/typography overrides (uses theme defaults)
+ * - Only: profile image styling + popup/overlay system
+ * 
+ * Key Components (Previous Commit):
+ * 1. Theme Import
+ * 2. Profile Picture (.img-circle)
+ * 3. Popup/Overlay System
+ * 4. Basic Responsive Rules
+ */
+
+/* Import the base Jekyll minimal theme styles */
 @import "jekyll-theme-minimal";
 
+/**
+ * PROFILE PICTURE STYLING (Previous Commit Specs)
+ * ===============================================
+ * Simple border radius and spacing for the profile image.
+ * This was the main custom styling in the previous commit.
+ */
 .img-circle {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px; 
-    margin-bottom: 10px;
+    -webkit-border-radius: 5px;     /* Safari/Chrome border radius */
+    -moz-border-radius: 5px;        /* Firefox border radius */
+    border-radius: 5px;             /* Standard border radius */
+    margin-bottom: 10px;            /* Space below image */
 }
 
+/**
+ * BOLD TEXT STYLING
+ * =================
+ * Make bold text appear as bold gray instead of black for better visual hierarchy.
+ */
+strong, b {
+    color: #666 !important;          /* Bold gray color */
+    font-weight: 700 !important;     /* Strong font weight */
+}
+
+/**
+ * TEXT JUSTIFICATION
+ * ==================
+ * Make paragraph text stretch to align with both left and right borders
+ * by adjusting word spacing for professional appearance.
+ */
+section p {
+    text-align: justify !important;  /* Justify text alignment */
+    text-justify: inter-word;         /* Adjust spacing between words */
+    hyphens: auto;                    /* Enable automatic hyphenation */
+    -webkit-hyphens: auto;            /* Safari hyphenation */
+    -moz-hyphens: auto;               /* Firefox hyphenation */
+}
+
+/**
+ * POPUP/OVERLAY SYSTEM (Previous Commit Specs)
+ * ============================================
+ * Modal functionality preserved from previous commit.
+ * Full-screen overlay with centered popup container.
+ */
+
+/* Full-screen overlay background */
 .overlay {
-  position: fixed;
-  top: 0;
+  position: fixed;                  /* Fixed to viewport */
+  top: 0;                          /* Cover entire screen */
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
+  background: rgba(0, 0, 0, 0.7);   /* Semi-transparent dark background */
+  transition: opacity 500ms;        /* Smooth fade transition */
+  visibility: hidden;               /* Hidden by default */
   opacity: 0;
 }
 
+/* Show overlay when targeted */
 .overlay:target {
-  visibility: visible;
-  opacity: 1;
+  visibility: visible;              /* Make visible */
+  opacity: 1;                       /* Fade in */
 }
 
+/* Popup container */
 .popup {
-  margin: 20px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
-  transition: all 1s ease-in-out;
+  margin: 20px auto;                /* Center with top margin */
+  padding: 20px;                    /* Internal spacing */
+  background: #fff;                 /* White background */
+  border-radius: 5px;               /* Rounded corners */
+  width: 30%;                       /* Default width */
+  position: relative;               /* For close button positioning */
+  transition: all 1s ease-in-out;   /* Smooth animations */
 }
 
+/* Popup close button */
 .popup .close {
-  position: absolute;
-  top: 10px;
+  position: absolute;               /* Position relative to popup */
+  top: 10px;                        /* Top-right corner */
   right: 10px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-.popup .close:hover {
-  color: #06D85F;
+  transition: all 200ms;            /* Quick hover transition */
+  font-size: 30px;                  /* Large, clickable */
+  font-weight: bold;                /* Bold for visibility */
+  text-decoration: none;            /* Remove underline */
+  color: #333;                      /* Dark gray */
 }
 
+/* Close button hover effect */
+.popup .close:hover {
+  color: #06D85F;                   /* Green highlight on hover */
+}
+
+/* Popup content area */
 .popup .content {
-  padding-right: 20px;
-  max-height: 30%;
-  overflow: auto;
+  padding-right: 20px;              /* Avoid close button overlap */
+  max-height: 30%;                  /* Limit height */
+  overflow: auto;                   /* Scroll if needed */
   font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/**
+ * RESPONSIVE DESIGN (Previous Commit Specs)
+ * =========================================
+ * Basic mobile adaptations for popup system.
+ */
 @media screen and (max-width: 700px){
   .box{
-    width: 80%;
+    width: 80%;                     /* Mobile box width */
   }
   .popup{
-    width: 80%;
+    width: 80%;                     /* Mobile popup width */
   }
 }
+
+/* ==========================================================================
+   COMMENTED OUT: COMPREHENSIVE STYLING FOR FUTURE REFERENCE
+   ========================================================================== 
+   
+   The sections below were added for enhanced styling but are commented out
+   to restore the previous commit's minimal approach. Uncomment and modify
+   as needed for future enhancements.
+
+// LAYOUT & POSITIONING (Enhanced Version - Commented Out)
+// ======================================================
+// body {
+//   padding: 20px !important;
+//   font-size: 18px !important;
+// }
+
+// .wrapper {
+//   margin: 0 auto !important;
+//   padding: 0 !important;
+//   text-align: center;
+//   max-width: none !important;
+//   width: 100% !important;
+// }
+
+// header {
+//   margin: 0 auto !important;
+//   padding: 0 !important;
+//   width: 100% !important;
+//   max-width: none !important;
+// }
+
+// section {
+//   margin: 0 auto !important;
+//   padding: 0 60px !important;
+//   text-align: left;
+//   max-width: 1400px !important;
+//   width: 100% !important;
+//   font-size: 18px !important;
+//   line-height: 1.6 !important;
+// }
+
+// TYPOGRAPHY (Enhanced Version - Commented Out)
+// ============================================
+// section h1 { font-size: 28px !important; }
+// section h2 { font-size: 24px !important; }
+// section h3 { font-size: 20px !important; }
+
+// PROFESSIONAL LINKS (Enhanced Version - Commented Out)
+// ====================================================
+// .professional-links {
+//   margin: 15px 0;
+//   text-align: left;
+// }
+
+   ========================================================================== */

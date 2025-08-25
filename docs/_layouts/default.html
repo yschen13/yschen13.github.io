@@ -23,10 +23,17 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="img-circle" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <!-- Professional Links -->
+        <div class="professional-links">
+          <p><i class="far fa-bookmark"></i> <a href="{{ "/assets/files/CV_academia_Oct2024.pdf" | relative_url }}" target="_blank">CV</a></p>
+          <p><i class="fab fa-github"></i> <a href="https://github.com/yschen13" target="_blank">GitHub</a></p>
+          <p><i class="fas fa-user-graduate"></i> <a href="https://scholar.google.com/citations?user=7xTBMSkAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -36,8 +43,6 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% include sidebar.html %}
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -46,16 +51,19 @@
         </ul>
         {% endif %}
       </header>
+      
       <section>
 
       {{ content }}
 
       </section>
+    </div>
+    
+    <div class="wrapper">
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
