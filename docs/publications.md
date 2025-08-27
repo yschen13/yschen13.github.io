@@ -23,6 +23,7 @@ Where we are now can provide important clues about where we came from. By examin
 
 ### 3. Revealing the brain's functional connectivity 
 While many statistical methods can reveal correlational structures, evaluating the brain’s functional connectivity requires accounting for its intrinsic dynamics. [My previous work](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119) was the first to integrate **neural dynamics** into the evaluation of functional connectivity, opening opportunities for many extensions-for example, incorporating specific nonlinearities or modeling the influence of external inputs.
+- Now with the increasing amount of shared modality data recording functional activities and structural connectivity (e.g. MiCRONs and V1 Deep Dive from Allen Institute), this method might come handy while handling these functional connectivities. 
 
 ---
 
