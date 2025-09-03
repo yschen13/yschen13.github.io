@@ -33,13 +33,15 @@ While many statistical methods can reveal correlational structures, evaluating t
 * **Chen, Y.**, Rosen, B. Q. & Sejnowski, T. J. (2022) Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (2022)._ [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
 
 ### Preprints
+* Cheng, Y<sup>*</sup>, **Chen, Y**<sup>*</sup>, ... & Wu, Z. (2025) Asymmetric Social Representations in the Prefrontal Cortex for Cooperative Behavior. _bioRxiv_ [[paper](https://doi.org/10.1101/2025.08.27.672249)]
+
 * **Chen, Y.**, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_ [[paper](https://www.biorxiv.org/content/10.1101/2024.10.09.617461v1.full.pdf+html)]
 
 * Cameron, M., **Chen, Y.** & Sejnowski, T. A biologically-plausible alternative to backpropagation using pseudoinverse feedback connections. _Accepted to Cosyne 2025_
 
-* **Chen, Y.**, Recanatesi, S., Jiang, P., Rao, R., Mihalas, S., Fairhall, A., & Shea-Brown, E. (2024) How learning regimes shape the emergence of cognitive maps. _in prep_
+* **Chen, Y.**, Recanatesi, S., Jiang, P., Rao, R., Mihalas, S., Fairhall, A., & Shea-Brown, E. How learning regimes shape the emergence of cognitive maps. _in prep_
 
-* **Chen, Y.**, Recanatesi, S., Liu, S., Cohen, J., Shea-Brown, E. (2024) Reinforcement learning constrained state space modeling of neural decisions. _in prep_
+* **Chen, Y.**, Recanatesi, S., Liu, S., Cohen, J., Shea-Brown, E. Reinforcement learning constrained state space modeling of neural decisions. _in prep_
 
 ---
 
