@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-I am currently a **Principal Investigator** at the Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences.
+I am currently a **Principal Investigator** at the Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences. Prior to establishing my laboratory, I was a Swartz Postdoctoral Fellow in computational neuroscience at the University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/) and [Dr. Adrienne Fairhall](https://fairhalllab.com). I earned my Ph.D. in Computational Neuroscience from the University of California, San Diego, where I trained with [Dr. Terrence Sejnowski](https://cnl.salk.edu) at the Salk Institute.
 
 [My lab](http://english.cebsit.cas.cn/lab/chenyusi/research/) seeks to uncover the computational principles that enable biological and artificial agents to learn, predict, and interact in complex environments. We develop data-driven approaches to infer the latent algorithms underlying behavior and neural activity, spanning **learning rules, internal representations, and network dynamics**. A central goal of our research is to reverse-engineer the mechanisms by which brains acquire predictive models of the world, assign value to actions and outcomes, and adapt to social interactions. 
 
@@ -15,7 +15,6 @@ Besides lab research, I'm broadly interested in **AI algorithms, learning theori
 I also maintain a curated collection of [resources](./roadmap) for students and researchers interested in computational neuroscience, including introductory materials, tutorials, software tools, public datasets, and laboratory resources that I have found useful throughout my own training and research.
 
 If you're interested in these topics, feel free to contact me at chenyusi151201@@gmail.com (remove @ before emailing).
-
 
 
 ---
