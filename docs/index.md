@@ -4,13 +4,19 @@ layout: default
 
 # Welcome!
 
-I am currently a [Swartz postdoctoral fellow](https://compneuro.washington.edu/people/swartz-postdoctoral-fellows) in computational neuroscience at the University of Washington, mentored by [Dr. Eric Shea-Brown](http://faculty.washington.edu/etsb/) and [Dr. Adrienne Fairhall](https://fairhalllab.com). Previously, I earned my PhD from the University of California, San Diego, under the supervision of [Dr. Terrence Sejnowski](https://cnl.salk.edu) at the Salk Institute. 
+I am currently a **Principal Investigator** at the Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences.
 
-My [research](./publications) centers on uncovering the learning trajectories in **neural network models** and cognitive latents through **Bayesian inference methods**. I primarily study **foraging tasks**, from random walks to social collaborative foraging.
+[My lab](http://english.cebsit.cas.cn/lab/chenyusi/research/) seeks to uncover the computational principles that enable biological and artificial agents to learn, predict, and interact in complex environments. We develop data-driven approaches to infer the latent algorithms underlying behavior and neural activity, spanning **learning rules, internal representations, and network dynamics**. A central goal of our research is to reverse-engineer the mechanisms by which brains acquire predictive models of the world, assign value to actions and outcomes, and adapt to social interactions. 
 
-Besides lab research, I'm broadly interested in **AI algorithms, learning theories and puzzles**. During the years, I accumulated pages of [research notes](./notes) and [side projects](./projects) and equivalently two M.S. degrees! I'm posting them here so that they don't have to go through the painful and lengthy review process to qualify as publications. 
+To address these questions, we combine **Bayesian inference, machine learning theory and reinforcement learning theory** for three interconnected [research topics](./publications): (1) discovering learning and decision-making principles directly from behavioral and neural data, including reinforcement learning and social cognition; (2) understanding how learning trajectories shape the emergence of neural representations and cognitive maps; and (3) developing theory-guided methods for revealing functional interactions within large-scale brain networks. By integrating computational theory with modern gigantic experimental datasets, we aim to build a quantitative understanding of intelligence that informs both neuroscience and biologically inspired artificial intelligence.
 
-If you're interested in these topics, feel free to contact me at chenyusi151201@gmail.com.
+Besides lab research, I'm broadly interested in **AI algorithms, learning theories, mathematics, and scientific puzzles**. Over the years, I have accumulated a collection of [research notes](./notes) and [side projects](./projects), where I share ideas, technical explorations, and unfinished work that may never go through the traditional publication process but have nonetheless shaped my scientific thinking.
+
+I also maintain a curated collection of [resources](./roadmap) for students and researchers interested in computational neuroscience, including introductory materials, tutorials, software tools, public datasets, and laboratory resources that I have found useful throughout my own training and research.
+
+If you're interested in these topics, feel free to contact me at chenyusi151201@@gmail.com (remove @ before emailing).
+
+
 
 ---
 
