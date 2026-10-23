@@ -28,30 +28,29 @@ While many statistical methods can reveal correlational structures, evaluating t
 ---
 
 ### Selected Publications
+* Cheng, Y.<sup>#</sup>, **Chen, Y.**<sup>#</sup>, ... & Wu, Z. (2026) Asymmetric prefrontal representations for leader–follower dynamics. _Nature_, 1-12. (#, co-first) [[paper](https://www.nature.com/articles/s41586-026-10900-1)]
+
 * **Chen, Y.**, Zhang, H., Cameron, M. & Sejnowski, T.J. (2024) Predictive sequence learning in the hippocampal formation. Neuron 112, 1-14. [[paper](https://www.cell.com/neuron/fulltext/S0896-6273(24)00371-4)]
 
 * **Chen, Y.**, Rosen, B. Q. & Sejnowski, T. J. (2022) Dynamical differential covariance recovers directional network structure in multiscale neural systems. _Proceedings of the National Academy of Sciences (2022)._ [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2117234119)][[code](https://github.com/yschen13/DDC)] [[5-min video](https://www.youtube.com/watch?v=okGOtK3Y7IM)]
 
 ### Preprints
-* Cheng, Y<sup>*</sup>, **Chen, Y**<sup>*</sup>, ... & Wu, Z. (2025) Asymmetric Social Representations in the Prefrontal Cortex for Cooperative Behavior. _bioRxiv_ [[paper](https://doi.org/10.1101/2025.08.27.672249)]
+* Yang, J., Liu, Y., Yang, T. & **Chen, Y.** (2026) Geometry of cognitive maps in minimal representations. _in prep_
+
+* Zhang, Z., Yang, Y., Cheng, Y., Wu, Z. & **Chen, Y.** (2026) MA-UITD: Offline multi-agent reward inference for characterizing social behavior. _in prep_
 
 * **Chen, Y.**, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_ [[paper](https://www.biorxiv.org/content/10.1101/2024.10.09.617461v1.full.pdf+html)]
 
-* Cameron, M., **Chen, Y.** & Sejnowski, T. A biologically-plausible alternative to backpropagation using pseudoinverse feedback connections. _Accepted to Cosyne 2025_
-
-* **Chen, Y.**, Recanatesi, S., Jiang, P., Rao, R., Mihalas, S., Fairhall, A., & Shea-Brown, E. How learning regimes shape the emergence of cognitive maps. _in prep_
-
-* **Chen, Y.**, Recanatesi, S., Liu, S., Cohen, J., Shea-Brown, E. Reinforcement learning constrained state space modeling of neural decisions. _in prep_
+* Cameron, M., **Chen, Y.** & Sejnowski, T. (2025) A biologically-plausible alternative to backpropagation using pseudoinverse feedback connections. _Cosyne 2025_
 
 ---
 
 ### Service
-* Reviewer for _Nature_, _Proceedings of the National Academy of Sciences_, _ICLR_, _Neural Computation_
-* TA for Allen Summer Workshop on the Dynamics Brain
-* Graduate instructor assistant for system computational neuroscience, UCSD
-* Graduate instructor assistant for bioinformatics, UCSD
+* Reviewer for _UK Research and Innovation Funding Service_, _Journal of Neuroscience_, _Proceedings of the National Academy of Sciences_, _The International Conference on Learning Representations_, _Neural Computation_, and _Network Neuroscience_
+* Organizer for student research seminars and journal clubs
 
 ### Awards
+* Finalist for Washington Research Foundation Postdoctoral Fellowship (2024)
 * Swartz Postdoctoral Fellowship (2023)
 * Kavli-Helinski Fellowship (2021, 2022)
 * National Scholarship of China (2016)
@@ -62,4 +61,4 @@ While many statistical methods can reveal correlational structures, evaluating t
   <a href="{{ "/" | relative_url }}" style="display: inline-block; padding: 12px 24px; background-color: #f0f0f0; color: #333; text-decoration: none; border-radius: 5px; font-weight: 600; border: 2px solid #ddd; transition: all 0.3s ease;">
     ← Return to Main Page
   </a>
-</div> 
+</div>
