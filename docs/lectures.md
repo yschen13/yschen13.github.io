@@ -4,7 +4,7 @@ title: Recommended Lectures
 ---
 
 **Computational Neuroscience**
-* [Coursera series](https://www.coursera.org/learn/computational-neuroscience) by UW [Prof. Rajesh Rao](https://homes.cs.washington.edu/~rao/) and [Prof. Adrienne Fairhall]((https://fairhalllab.com))
+* [Coursera series](https://www.coursera.org/learn/computational-neuroscience) by UW [Prof. Rajesh Rao](https://homes.cs.washington.edu/~rao/) and [Prof. Adrienne Fairhall](https://fairhalllab.com)
 * [NeuroMatch Series](https://compneuro.neuromatch.io/tutorials/intro.html)
 * [MIT Open Courses](https://ocw.mit.edu/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/pages/syllabus/) by Prof. Sebastian Seung 
 
