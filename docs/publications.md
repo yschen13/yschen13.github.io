@@ -37,7 +37,7 @@ While many statistical methods can reveal correlational structures, evaluating t
 ### Preprints
 * Yang, J., Liu, Y., Yang, T. & **Chen, Y.** (2026) Geometry of cognitive maps in minimal representations. _in prep_
 
-* Zhang, Z., Yang, Y., Cheng, Y., Wu, Z. & **Chen, Y.** (2026) MA-UITD: Offline multi-agent reward inference for characterizing social behavior. _in prep_
+* Zhang, Z., Yang, Y., Cheng, Y., Wu, Z. & **Chen, Y.** (2026) MA-UITD: Offline multi-agent reward inference for characterizing continuous social behavior. _arXiv:2610.29237_ [[paper](https://arxiv.org/abs/2610.29237)] [[code](https://github.com/ZaynZh/MA-UITD)]
 
 * **Chen, Y.**, Radulescu, A. & Wu, Z. (2024) Unveiling the latent dynamics in social cognition with multi-agent inverse reinforcement learning. _bioRxiv_ [[paper](https://www.biorxiv.org/content/10.1101/2024.10.09.617461v1.full.pdf+html)]
 
